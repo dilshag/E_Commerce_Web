@@ -77,7 +77,8 @@
         </video>
 
         <div class="video-overlay">
-            <h1>Full-Screen Background Video <br>Using CSS Grid &amp; object-fit</h1>
+            <h3>Always in Good Taste!<p>At Divine, we bring you the largest selection of cakes and other great <br>quality desserts on the market. Along with a vast wealth of knowledge<br> in the products we sell, Divine carries everything you could <br>possibly imagine and more.</p>
+            </h3>
         </div>
 </main>
 
@@ -287,6 +288,21 @@
 <br>
 <br>
 
+<!-- Footer -->
+<footer class="footer text-center">
+    <div class="container">
+        <p>Follow us on</p>
+        <div>
+            <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
+            <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
+            <a href="#"><i class="fa fa-instagram fa-lg"></i></a>
+            <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
+        </div>
+        <p class="mt-3">© 2025 DevineCakes. All Rights Reserved.</p>
+    </div>
+</footer>
+
+<%--
 <footer class="footer-section">
     <div class="container">
         <div class="footer-cta pt-5 pb-5">
@@ -380,7 +396,7 @@
                         <p>Copyright &copy; 2025, All Right Reserved <a href="https://codepen.io/anupkumar92/">Dilsha</a></p>
                     </div>
                 </div>
-               <%-- <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
+               &lt;%&ndash; <div class="col-xl-6 col-lg-6 d-none d-lg-block text-right">
                     <div class="footer-menu">
                         <ul>
                             <li><a href="#">Home</a></li>
@@ -390,11 +406,11 @@
                             <li><a href="#">Contact</a></li>
                         </ul>
                     </div>
-                </div>--%>
+                </div>&ndash;%&gt;
             </div>
         </div>
     </div>
-</footer>
+</footer>--%>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
 
 <script>
